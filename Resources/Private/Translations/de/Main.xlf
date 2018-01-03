@@ -3,7 +3,7 @@
 	<file original="" product-name="NeosRulez.SocialMediaComponents" source-language="de" datatype="plaintext">
 		<body>
 			<trans-unit id="socialmediacomponentssettings" xml:space="preserve">
-				<source>Einstellungen: Social Media Komponenten</source>
+				<source>Einstellungen: Social Media</source>
 			</trans-unit>
             <trans-unit id="socialmediacomponents" xml:space="preserve">
 				<source>Social Media Komponenten</source>

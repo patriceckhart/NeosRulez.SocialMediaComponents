@@ -5,3 +5,33 @@
     group: 'socialmediacomponents'
     label: i18n
     icon: 'icon-share-alt'
+    inspector:
+      groups:
+        socialmediacomponentssettings:
+          label: NeosRulez.SocialMediaComponents:Main:socialmediacomponentssettings
+          icon: 'icon-cog'
+  properties:
+    facebook:
+      type: boolean
+      defaultValue: TRUE
+      ui:
+        label: i18n
+        reloadIfChanged: TRUE
+        inspector:
+          group: 'socialmediacomponentssettings'
+    twitter:
+      type: boolean
+      defaultValue: TRUE
+      ui:
+        label: i18n
+        reloadIfChanged: TRUE
+        inspector:
+          group: 'socialmediacomponentssettings'
+    googleplus:
+      type: boolean
+      defaultValue: TRUE
+      ui:
+        label: i18n
+        reloadIfChanged: TRUE
+        inspector:
+          group: 'socialmediacomponentssettings'

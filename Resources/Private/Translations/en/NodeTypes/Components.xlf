@@ -5,6 +5,15 @@
 			<trans-unit id="ui.label" xml:space="preserve">
 				<source>Social Media Components</source>
 			</trans-unit>
+            <trans-unit id="properties.facebook" xml:space="preserve">
+				<source>Facebook</source>
+			</trans-unit>
+            <trans-unit id="properties.twitter" xml:space="preserve">
+				<source>Twitter</source>
+			</trans-unit>
+            <trans-unit id="properties.googleplus" xml:space="preserve">
+				<source>Google Plus</source>
+			</trans-unit>
 		</body>
 	</file>
 </xliff>
