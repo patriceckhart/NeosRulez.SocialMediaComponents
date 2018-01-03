@@ -1,0 +1,3 @@
+prototype(Site:Components) < prototype(Content) {
+    templatePath = 'resource://NeosRulez.SocialMediaComponents/Private/Templates/FusionObjects/Components.html'
+}

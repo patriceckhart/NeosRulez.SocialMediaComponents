@@ -1,0 +1,20 @@
+Neos:
+  Neos:
+    userInterface:
+      translation:
+        autoInclude:
+          NeosRulez.SocialMediaComponents:
+            - Main
+            - 'NodeTypes/*'
+      defaultLanguage: 'de'
+    nodeTypes:
+      groups:
+        socialmediacomponents:
+          position: 'end'
+          label: NeosRulez.SocialMediaComponents:Main:socialmediacomponents
+    fusion:
+      autoInclude:
+        NeosRulez.SocialMediaComponents: true
+NeosRulez:
+  SocialMediaComponents:
+    blogImageWidth: '1080'

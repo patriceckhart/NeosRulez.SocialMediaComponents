@@ -1,0 +1,7 @@
+'NeosRulez.SocialMediaComponents:Components':
+  superTypes:
+    'Neos.Neos:Content': TRUE
+  ui:
+    group: 'socialmediacomponents'
+    label: i18n
+    icon: 'icon-share-alt'

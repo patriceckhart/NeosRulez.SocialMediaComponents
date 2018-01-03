@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+	<file original="" product-name="NeosRulez.SocialMediaComponents" source-language="de" datatype="plaintext">
+		<body>
+			<trans-unit id="socialmediacomponentssettings" xml:space="preserve">
+				<source>Einstellungen: Social Media Komponenten</source>
+			</trans-unit>
+            <trans-unit id="socialmediacomponents" xml:space="preserve">
+				<source>Social Media Komponenten</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
